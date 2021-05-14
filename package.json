@@ -1,19 +1,19 @@
 {
-  "name": "DAN3002",
-  "version": "1.0.0",
-  "description": "Just a repository about me :)))",
-  "main": "index.js",
-  "scripts": {
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DAN3002/DAN3002.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DAN3002/DAN3002/issues"
-  },
-  "homepage": "https://github.com/DAN3002/DAN3002#readme"
+	"name": "DAN3002",
+	"version": "1.0.0",
+	"description": "Just a repository about me :)))",
+	"main": "index.js",
+	"scripts": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DAN3002/DAN3002.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/DAN3002/DAN3002/issues"
+	},
+	"homepage": "https://github.com/DAN3002/DAN3002#readme"
 }
