@@ -4,6 +4,9 @@
 	"description": "Just a repository about me :)))",
 	"main": "index.js",
 	"scripts": {
+		"build": "babel app --out-dir functions --copy-files --ignore app/node_modules",
+		"postbuild": "cd functions && npm i -s",
+		"dev": "npm run build && firebase serve"
 	},
 	"repository": {
 		"type": "git",
@@ -15,5 +18,10 @@
 	"bugs": {
 		"url": "https://github.com/DAN3002/DAN3002/issues"
 	},
-	"homepage": "https://github.com/DAN3002/DAN3002#readme"
+	"homepage": "https://github.com/DAN3002/DAN3002#readme",
+	"devDependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-preset-env": "^1.7.0",
+		"rimraf": "^3.0.2"
+	}
 }
