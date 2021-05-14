@@ -1,13 +1,18 @@
 module.exports = {
-	root: true,
 	env: {
-		es6: true,
+		browser: true,
+		es2021: true,
 		node: true,
 	},
 	extends: [
-		"eslint:recommended",
+		'@dan3002/eslint-config',
 	],
+	parserOptions: {
+		ecmaVersion: 12,
+		sourceType: 'module',
+	},
 	rules: {
-		quotes: ["error", "double"],
+		'guard-for-in': 'off',
+		'new-cap': 'off',
 	},
 };
