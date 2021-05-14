@@ -13,9 +13,13 @@
 		],
 		"rewrites": [
 			{
-				"source": "**",
+				"source": "/",
 				"destination": "/index.html"
-			}
+			},
+			{
+				"source": "**",
+				"function": "app"
+			}	
 		]
 	}
 }
