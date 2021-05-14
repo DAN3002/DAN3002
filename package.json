@@ -6,7 +6,8 @@
 	"scripts": {
 		"build": "babel app --out-dir functions --copy-files --ignore app/node_modules",
 		"postbuild": "cd functions && npm i -s",
-		"dev": "npm run build && firebase serve"
+		"dev": "npm run build && firebase serve",
+		"lint": "cd app && eslint ."
 	},
 	"repository": {
 		"type": "git",
@@ -22,6 +23,7 @@
 	"devDependencies": {
 		"babel-cli": "^6.26.0",
 		"babel-preset-env": "^1.7.0",
+		"husky": "^6.0.0",
 		"rimraf": "^3.0.2"
 	}
 }
