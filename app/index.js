@@ -1,11 +1,8 @@
 import * as functions from 'firebase-functions';
 
 import './startup';
+import './email';
 
-import app from './startup/intiExpress';
-
-app.get('/test', (req, res) => {
-	res.send('lkjklj');
-});
+import app from './startup/express';
 
 exports.app = functions.https.onRequest(app);
