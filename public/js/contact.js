@@ -43,7 +43,7 @@ $(function () {
                     Swal.fire({
                         icon: 'success',
                         title: 'Thank you!',
-                        text: 'I will contact with you as soon as possible.',
+                        text: 'I will contact you as soon as possible.',
                     })
                 }
             });
