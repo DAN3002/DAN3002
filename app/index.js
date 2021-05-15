@@ -1,13 +1,11 @@
 import * as functions from 'firebase-functions';
-import express from 'express';
-import dotenv from 'dotenv';
 
-dotenv.config();
+import './startup';
 
-const app = express();
+import app from './startup/intiExpress';
 
 app.get('/test', (req, res) => {
-	res.send(process.env.DB_HOST);
+	res.send('lkjklj');
 });
 
 exports.app = functions.https.onRequest(app);
