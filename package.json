@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"build": "babel app --out-dir functions --copy-files --ignore app/node_modules",
-		"postbuild": "cd functions && npm i -s",
+		"postbuild": "cp app/.env functions && cd functions && npm i -s",
 		"start": "npm run build && firebase serve",
 		"lint": "cd app && eslint ."
 	},
