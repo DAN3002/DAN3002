@@ -6,6 +6,10 @@ export default class Base {
 	}
 
 	insert(data) {
+		if (!data.insertAt) {
+			data.insertAt = new Date();
+		}
+
 		return this.model.add(data);
 	}
 
