@@ -1,10 +1,9 @@
 import app from '../startup/express';
+import { Contacts } from '../models';
 
 app.post('/email/contact', (req, res) => {
-	console.log(req.body);
+	const { body } = req;
+	Contacts.insert(body);
 
-	res.json({
-		type: 'sucess',
-		message: 'alskdjlaskjads',
-	});
+	res.sendStatus(200);
 });
