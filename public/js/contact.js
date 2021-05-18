@@ -15,6 +15,7 @@ $(function () {
         // if the validator does not prevent form submit
         if (!e.isDefaultPrevented()) {
             var url = "/email/contact";
+            const form = this;
 
             // POST values in the background the the script URL
             $.ajax({
@@ -44,7 +45,8 @@ $(function () {
                         icon: 'success',
                         title: 'Thank you!',
                         text: 'I will contact you as soon as possible.',
-                    })
+                    });
+                    form.reset();
                 }
             });
             return false;
