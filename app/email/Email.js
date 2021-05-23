@@ -11,12 +11,12 @@ class Email {
 		});
 	}
 
-	send(to, subject, text) {
+	send(to, subject, html) {
 		const mailOptions = {
 			from: process.env.EMAIL_USER,
 			to,
 			subject,
-			text,
+			html,
 		};
 		return this.transporter.sendMail(mailOptions);
 	}
