@@ -1,4 +1,4 @@
-export const processEmailBody = (name, message) => `	<div
+export const processEmailBody = (name, message) => `<div
 style="background-color: rgb(251, 243, 243); width: 50%; margin: auto; padding: 15px; margin-top: 20px; font-family: Arial,Helvetica,sans-serif; font-size: 14px; line-height: 22.4px; color: #444444;">
 <p style="white-space: pre-line">
 	<b>Dear ${ name }</b>
@@ -13,24 +13,24 @@ style="background-color: rgb(251, 243, 243); width: 50%; margin: auto; padding: 
 <div style="display: flex;width: 100%;margin-top: 10px;">
 	<div style="width: 50%;">
 		<h3 style="margin: 0px;">Nguyễn Đình Anh</h3>
-		<ul style="list-style: none;margin-top: 10px;padding-inline-start: 0px;">
-			<li>
+		<div style="margin-top: 10px;">
+			<p style="margin: 0px;">
 				<b>Website:</b>
 				<a href="https://dan3002.web.app/" target="_blank">dan3002.web.app</a>
-			</li>
-			<li>
+			</p>
+			<p style="margin: 0px;">
 				<b>Email:</b>
 				<a href="mailto:dinhanh300229@gmail.com" target="_blank">dinhanh300229@gmail.com</a>
-			</li>
-			<li>
+			</p>
+			<p style="margin: 0px;">
 				<b>Phone:</b>
 				<span>(+84) 914085246</span>
-			</li>
-			<li>
+			</p>
+			<p style="margin: 0px;">
 				<b>Location:</b>
 				<span>Ha Noi, Viet Nam</span>
-			</li>
-		</ul>
+			</p>
+		</div>
 	</div>
 	<div style="width:50%">
 		<div>
@@ -58,4 +58,5 @@ style="background-color: rgb(251, 243, 243); width: 50%; margin: auto; padding: 
 		</div>
 	</div>
 </div>
-</div>`;
+</div>
+`;
