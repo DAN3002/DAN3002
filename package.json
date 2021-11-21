@@ -1,7 +1,7 @@
 {
-	"name": "DAN3002",
+	"name": "dan_3002",
 	"version": "1.0.0",
-	"description": "Just a repository about me :)))",
+	"description": "Just a repository about me",
 	"main": "index.js",
 	"scripts": {
 		"build": "babel app --out-dir functions --copy-files --ignore app/node_modules",
