@@ -16,7 +16,7 @@ style="background-color: rgb(251, 243, 243); width: 50%; margin: auto; padding: 
 		<div style="margin-top: 10px;">
 			<p style="margin: 0px;">
 				<b>Website:</b>
-				<a href="https://dan3002.web.app/" target="_blank">dan3002.web.app</a>
+				<a href="https://dan3002-cv.web.app/" target="_blank">dan3002-cv.web.app</a>
 			</p>
 			<p style="margin: 0px;">
 				<b>Email:</b>
@@ -39,21 +39,21 @@ style="background-color: rgb(251, 243, 243); width: 50%; margin: auto; padding: 
 		<div style="display:flex;flex-wrap:wrap;">
 			<a href="https://www.facebook.com/dan3002/" target="_blank" rel="noopener noreferrer"
 				style="text-decoration:none;border:0;width:30px;height:30px;padding:2px;margin:5px;color:#cceff5;border-radius:50%;background-color:#0d2744; margin-right:20px">
-				<img src="https://dan3002.web.app/images/icon/facebook.png" alt=""
+				<img src="https://dan3002-cv.web.app/images/icon/facebook.png" alt=""
 					style="width:30px;height:30px">
 			</a>
 			<a href="mailto:dinhanh300229@gmail.com" target="_blank" rel="noopener noreferrer"
 				style="text-decoration:none;border:0;width:30px;height:30px;padding:2px;margin:5px;color:#cceff5;border-radius:50%;background-color:#0d2744;margin-right:20px">
-				<img src="https://dan3002.web.app/images/icon/email.png" alt="" style="width:30px;height:30px">
+				<img src="https://dan3002-cv.web.app/images/icon/email.png" alt="" style="width:30px;height:30px">
 			</a>
 			<a href="https://www.linkedin.com/in/dan3002/" target="_blank" rel="noopener noreferrer"
 				style="text-decoration:none;border:0;width:30px;height:30px;padding:2px;margin:5px;color:#cceff5;border-radius:50%;background-color:#0d2744;margin-right:20px">
-				<img src="https://dan3002.web.app/images/icon/linkedin.png" alt=""
+				<img src="https://dan3002-cv.web.app/images/icon/linkedin.png" alt=""
 					style="width:30px;height:30px">
 			</a>
 			<a href="https://github.com/DAN3002" target="_blank" rel="noopener noreferrer"
 				style="text-decoration:none;border:0;width:30px;height:30px;padding:2px;margin:5px;color:#cceff5;border-radius:50%;background-color:#0d2744;margin-right:20px">
-				<img src="https://dan3002.web.app/images/icon/github.png" alt="" style="width:30px;height:30px">
+				<img src="https://dan3002-cv.web.app/images/icon/github.png" alt="" style="width:30px;height:30px">
 			</a>
 		</div>
 	</div>
