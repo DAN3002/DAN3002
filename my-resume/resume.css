@@ -1,0 +1,19 @@
+#main {
+	width: 800px;
+	margin: 0 auto;
+
+	line-height: 15px;
+}
+
+header {
+	text-align: center;
+}
+
+header h2 {
+	margin-bottom: 10px;
+}
+
+header hr {
+	width: 40%;
+	margin-bottom: 25px;
+}
