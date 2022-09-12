@@ -25,7 +25,8 @@ main {
 
 main .section-header {
 	font-weight: bold;
-	padding-bottom: 10px;
+	padding-bottom: 7.5px;
+	margin-bottom: 7.5px;
 	border-bottom: 1px solid #000;
 	width: 100%;
 
@@ -40,7 +41,7 @@ main .section-header {
 
 .row-title {
 	font-weight: bold;
-	margin-bottom: 5px;
+	margin-bottom: 2.5px;
 }
 
 .section-row p,
@@ -49,7 +50,7 @@ main .section-header {
 }
 
 .section-row ul {
-	margin-top: 5px;
+	margin-top: 2.5px;
 }
 
 .section-row .right {
