@@ -2,7 +2,8 @@
 	width: 800px;
 	margin: 0 auto;
 
-	line-height: 15px;
+	line-height: 18px;
+	/* border: 0.5px solid #ccc; */
 }
 
 header {
@@ -16,4 +17,52 @@ header h2 {
 header hr {
 	width: 40%;
 	margin-bottom: 25px;
+}
+
+main {
+	font-size: 15px;
+}
+
+main .section-header {
+	font-weight: bold;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #000;
+	width: 100%;
+
+	/* uppercase */
+	text-transform: uppercase;
+}
+
+.section-row {
+	display: table;
+	width: 100%;
+}
+
+.row-title {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.section-row p,
+.section-row b {
+	margin: 0px;
+}
+
+.section-row ul {
+	margin-top: 5px;
+}
+
+.section-row .right {
+	text-align: right;
+	width: 30%;
+	margin: 0px;
+}
+
+.section-row .left {
+	width: 70%;
+	margin: 0px;
+}
+
+.column {
+	float: left;
 }
