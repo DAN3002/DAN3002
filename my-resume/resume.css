@@ -66,3 +66,8 @@ main .section-header {
 .column {
 	float: left;
 }
+
+a {
+	color: #000;
+	text-decoration: none;
+}
