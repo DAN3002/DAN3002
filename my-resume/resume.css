@@ -2,8 +2,12 @@
 	width: 800px;
 	margin: 0 auto;
 
-	line-height: 18px;
+	line-height: 17px;
 	/* border: 0.5px solid #ccc; */
+}
+
+section {
+	/* margin-top: -3px; */
 }
 
 header {
@@ -26,9 +30,11 @@ main {
 main .section-header {
 	font-weight: bold;
 	padding-bottom: 7.5px;
-	margin-bottom: 7.5px;
+	margin-bottom: 5px;
 	border-bottom: 1px solid #000;
 	width: 100%;
+
+	margin-top: 5px;
 
 	/* uppercase */
 	text-transform: uppercase;
