@@ -9,7 +9,5 @@
 
 You can visit my pinned repo to see some of my pet projects or learning projects. Or go to [my online website.](https://dan3002-cv.web.app/)
 
-![](https://run.kaist.ac.kr/badges/codeforces/D.A.N_3002.svg)
-![](https://visitor-badge.glitch.me/badge?page_id=DAN3002.DAN3002)
 
 
