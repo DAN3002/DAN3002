@@ -7,7 +7,12 @@
 - I'm working at FPT Software as Web Developer and study "Software Engineering" at FUNiX.
 - Learn about Competitive Programming and Deep Learning.
 
-You can visit my pinned repo to see some of my pet projects or learning projects. Or go to [my online website.](https://dan3002-cv.web.app/)
+You can visit my pinned repo to see some of my pet projects or learning projects. Or go to [my online website.](https://dan3002.tech/)
+
+<div align="center">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAN3002&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAN3002&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</div>
 
 
 
