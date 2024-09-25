@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan3002/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/DAN3002)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinhanh300229@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dan3002.work@gmail.com)
 
 - I had the opportunity to start college at 16 and started working a year later (17 years old). My interests are cloud computing as well as software development.
 - Along with that, I also have experience in teaching, I was recognized as an **AWS Authorized Instructor** and was the main instructor in 2 Bootcamps in Vietnam.
