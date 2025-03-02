@@ -10,7 +10,7 @@
 - I had the opportunity to start college at 16 and started working a year later (17 years old). My interests are cloud computing as well as software development.
 - Along with that, I also have experience in teaching, I was recognized as an **AWS Authorized Instructor** and was the main instructor in 2 Bootcamps in Vietnam.
 
-You can visit my pinned repo to see some of my pet projects or learning projects. Or go to [my online website.](https://dan3002.online/)
+You can visit my pinned repo to see some of my pet projects or learning projects. Or go to [my online website.](https://dan3002.tech/)
 
 I am always open to new opportunities and challenges. If you would like to reach me, feel free to drop me a message.
 <div align="center">
