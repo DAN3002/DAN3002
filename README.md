@@ -19,6 +19,5 @@ I am always open to new opportunities and challenges. If you would like to reach
 </div>
 
 <div align="center">
-	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DAN3002&theme=onedark&hide_border=true"/>
+	<img height="180em" src="https://streak-stats.demolab.com/?user=DAN3002&theme=onedark&hide_border=true"/>
 </div>
-
